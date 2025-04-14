@@ -24,8 +24,8 @@ https://your-username.github.io/your-repo-name/
 Files:
 ------
 - index.html     -> Main structure of the webpage
-- style.css      -> Styling and layout (Flexbox based)
-- readme.txt     -> This instruction file
+- styles.css      -> Styling and layout (Flexbox based)
+- readme.md     -> This instruction file
 
 How to Run:
 -----------
